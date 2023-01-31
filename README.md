@@ -1,3 +1,9 @@
+Try it out at https://twitter-clone-xi-kohl.vercel.app/
+
+Twitter clone with Google Sign In, Feed page, Post Details and Comments 
+
+(with NewsAPI & RandomUserAPI)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
