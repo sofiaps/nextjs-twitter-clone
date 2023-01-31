@@ -1,6 +1,6 @@
 Try it out at https://twitter-clone-xi-kohl.vercel.app/
 
-Twitter clone with Google Sign In, Feed page, Post Details and Comments 
+Twitter clone with NextJS, Firebase, Google Sign In, Feed page, Post Details and Comments 
 
 (with NewsAPI & RandomUserAPI)
 
